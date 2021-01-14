@@ -16,8 +16,8 @@ The goal of this project was to create a multiple linear regression model to est
 | media\_salary | The median salary in each state |
 | population | The population of each state |
 | pop\_density | The population density for each state |
-| recovered | The total people that recovered by the beginning of summer |
-| Spring\_death | The total deaths during spring. This helps with adjusting the data since not all states got their infection at the same time. |
+| recovered | The total number of people that recovered by the beginning of summer |
+| Spring\_death | The total number of deaths during spring. This helps with adjusting the data since not all states got their first infection at the same time. |
 
 
 ## Files 
