@@ -21,6 +21,6 @@ The goal in this project was to create a multiple linear regression model to est
 
 
 ## Files 
-data.csv: includes 46 observations each coresponding to a single state.                                                                                             
-covid19_predict.R: includes all the calculations and visualisations.      
-report.pdf: includes the results.
+Data.csv: includes 46 observations each coresponding to a single state.                                                                                             
+Covid19_predict.R: includes all the calculations and visualisations.      
+Report.pdf: includes the results.
